@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Task one",
+        "body": "write a notes app with Python",
+        "date": "2023-02-24 16:00:02"
+    },
+    {
+        "id": 2,
+        "title": "Task two",
+        "body": "write a toy store in Java",
+        "date": "2023-02-24 15:52:22"
+    }
+]
